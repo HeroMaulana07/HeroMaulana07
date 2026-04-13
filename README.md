@@ -60,27 +60,6 @@ Gue **HeroDev**, seorang beginner fullstack developer yang lagi fokus mendalami 
 
 ---
 
-## 📊 GitHub Stats
-> ⚠️ *Ganti `HeroDev` di URL bawah dengan username GitHub asli lu. Stats butuh 1-5 menit setelah push pertama buat muncul.*
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HeroMaulana07&show_icons=true&theme=radical&hide_border=true&hide_title=false" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HeroMaulana07&theme=radical&hide_border=true" alt="Streak Stats" width="48%"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeroMaulana07&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="60%"/>
-</p>
-
----
-
-## 🚀 Currently Working On
-
-- [ ] **MERN Auth System** — JWT, bcrypt, protected routes
-- [ ] **Portfolio V2** — Next.js + Tailwind + Framer Motion
-- [ ] **API Playground** — Express + PostgreSQL + Swagger docs
-
----
-
 ## 📬 Let's Connect!
 
 <p align="center">
