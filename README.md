@@ -20,8 +20,6 @@ Gue **HeroDev**, seorang beginner fullstack developer yang lagi fokus mendalami 
 
 💬 **Ask me about:** React hooks, Tailwind utilities, Express middleware, atau sekadar diskusi tech!
 
-📫 **Reach me:** [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/maulana.ilham_seven/)
-
 ---
 
 ## 🛠️ Tech Stack
