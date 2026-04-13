@@ -1,49 +1,73 @@
-<h1 align="center">Hi there, I'm [Nama Lu]! 👋</h1>
+<h1 align="center">Hi, I'm [Nama Lu]! 👋</h1>
 <p align="center">
-  <em>[Role/Profesi] • Passionate about [Bidang/Minat] • Open to Collaboration</em>
+  <em>Beginner Fullstack Developer • MERN Stack Enthusiast • Always Building & Learning</em>
 </p>
 
 ---
 
 ## 🧑‍💻 Tentang Gue
-Gue adalah seorang [deskripsi singkat: misal "full-stack developer yang suka ngoprek API & UI"]. 
-Suka belajar teknologi baru, ngoding pakai [bahasa/framework favorit], dan kalau lagi nggak depan laptop biasanya [hobi/kegiatan].
+Gue seorang **beginner fullstack developer** yang lagi fokus mendalami **MERN Stack** (MongoDB, Express.js, React.js, Node.js) buat jadi developer yang bisa handle frontend & backend secara end-to-end. 
 
-- 🌱 Sedang mendalami: `[Topik/Tech yang lagi dipelajari]`
-- 🎯 Target tahun ini: `[Goal profesional/pribadi]`
-- 💬 Bisa diajak diskusi: `[Topik: misal "System Design, React, Python, atau Startup"]`
-- 📫 Hubungi gue: `[email@example.com]`
+Saat ini gue udah nyaman bikin UI pake **HTML, CSS, Tailwind, & React**, sambil terus ngembangin sisi backend pake **JavaScript/Express.js, Python, & C++**. Untuk database, gue udah ngoprek **MongoDB, PostgreSQL, & MySQL**. 
+
+🚀 **Sedang belajar:** `Next.js` buat naikin level ke modern React ecosystem (SSR, routing, API routes).
+💡 **Filosofi coding:** *"Belajar sambil bikin, error itu guru terbaik."*
+
+- 🌱 Fokus utama: Fullstack Web Development (MERN + Next.js)
+- 🛠️ Suka ngulik: REST API, responsive UI, database design & query optimization
+- 📫 Reach me: `[email@example.com]`
 
 ---
 
 ## 🛠️ Tech Stack & Tools
+### 💻 Frontend
 <div align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+</div>
+
+### ⚙️ Backend
+<div align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <!-- Tambahin badge lain di: https://shields.io/badges -->
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+</div>
+
+### 🗄️ Database
+<div align="left">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+</div>
+
+### 📚 Currently Learning
+<div align="left">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
 </div>
 
 ---
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[USERNAME_GITHUB]&show_icons=true&theme=radical&hide_border=true" alt="Stats" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[USERNAME_GITHUB]&theme=radical&hide_border=true" alt="Streak" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=[USERNAME_GITHUB]&show_icons=true&theme=radical&hide_border=true" alt="Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[USERNAME_GITHUB]&theme=radical&hide_border=true" alt="Streak" width="48%"/>
 </div>
-*(⏳ Stats butuh 1-5 menit setelah commit pertama untuk muncul)*
+*(⏳ Stats butuh 1-5 menit setelah push pertama buat muncul)*
 
 ---
 
-## 🚀 Project Unggulan
+## 🚀 Project Belajar & Eksperimen
 | Project | Deskripsi Singkat | Tech Stack |
 |:--------|:------------------|:-----------|
-| 🔗 [Nama Project 1](https://github.com/USERNAME/REPO) | [1 kalimat value project] | React, Tailwind, Supabase |
-| 🔗 [Nama Project 2](https://github.com/USERNAME/REPO) | [1 kalimat value project] | Python, FastAPI, Docker |
-| 🔗 [Nama Project 3](https://github.com/USERNAME/REPO) | [1 kalimat value project] | Go, PostgreSQL, gRPC |
+| 🔗 [MERN CRUD App](https://github.com/USERNAME/REPO) | Latihan auth, REST API, & state management | React, Express, MongoDB |
+| 🔗 [Responsive Portfolio V1](https://github.com/USERNAME/REPO) | Landing page buat latihan UI/UX & Tailwind | HTML, Tailwind, React |
+| 🔗 [Backend API Gateway](https://github.com/USERNAME/REPO) | Service routing & middleware experiment | Express.js, PostgreSQL |
+
+*(💡 Ganti link & deskripsi sesuai repo yang udah lu buat. Kalau belum ada, ganti teks tabel jadi `🔧 [Coming Soon] • [Deskripsi project yang lagi direncanakan] • [Tech Stack]`)*
 
 ---
 
@@ -58,10 +82,8 @@ Suka belajar teknologi baru, ngoding pakai [bahasa/framework favorit], dan kalau
   <a href="https://twitter.com/[USERNAME_TWITTER]">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://[PORTFOLIO_URL]">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio"/>
-  </a>
 </p>
 
 ---
-> 💡 *"Code is like humor. When you have to explain it, it’s bad."* – Cory House
+> 💡 *"Setiap baris kode yang lu tulis hari ini, adalah investasi buat lu di masa depan."* 
+> 🔄 *Profile ini auto-update sesuai journey belajar gue. Stay tuned!*
