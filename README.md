@@ -24,17 +24,10 @@ I am a passionate developer currently on a journey to master the art of Fullstac
 
 💻 Languages & Others
 
-📊 GitHub Stats:
-
 <p align="left">
 <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3D[USERNAME-LO]&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180" />
 <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3D[USERNAME-LO]&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
 </p>
 
-🤝 Connect with me:
-
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
 “Coding is not just about syntax, it's about solving problems.”
