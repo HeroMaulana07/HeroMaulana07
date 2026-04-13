@@ -1,89 +1,86 @@
-<h1 align="center">Hi, I'm [Nama Lu]! 👋</h1>
 <p align="center">
-  <em>Beginner Fullstack Developer • MERN Stack Enthusiast • Always Building & Learning</em>
+  <img src="https://media.giphy.com/media/3o7btNa0RUYa5E7iiQ/giphy.gif" alt="Blackhole Animation" width="100%"/>
+</p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+HeroDev+%F0%9F%91%8B;Fullstack+Developer+%F0%9F%9A%80;MERN+Stack+Enthusiast+%E2%9A%A1;Building+the+future,+one+commit+at+a+time" alt="Typing SVG"/>
+</h1>
+
+<p align="center">
+  <em>🌌 Turning coffee into clean code • Beginner Fullstack Dev • Always Learning</em>
 </p>
 
 ---
 
-## 🧑‍💻 Tentang Gue
-Gue seorang **beginner fullstack developer** yang lagi fokus mendalami **MERN Stack** (MongoDB, Express.js, React.js, Node.js) buat jadi developer yang bisa handle frontend & backend secara end-to-end. 
+## 🧑‍💻 About Me
+Gue HeroDev, seorang beginner fullstack developer yang lagi fokus mendalami MERN Stack (MongoDB, Express.js, React.js, Node.js) untuk membangun aplikasi web yang scalable dan user-friendly.
+🔭 What I do:
+💻 Frontend: Bikin UI yang responsif & interaktif pakai React + Tailwind
+⚙️ Backend: Bangun REST API yang clean & efisien dengan Express.js
+🗄️ Database: Design schema & query optimization (MongoDB, PostgreSQL, MySQL)
+🧠 Fundamentals: Kuat di logika pemrograman (JavaScript, Python, C++)
+🌱 Currently mastering: Next.js — SSR, routing, API routes, dan deployment modern.
+💬 Ask me about: React hooks, Tailwind utilities, Express middleware, atau sekadar diskusi tech!
+📫 Reach me:
 
-Saat ini gue udah nyaman bikin UI pake **HTML, CSS, Tailwind, & React**, sambil terus ngembangin sisi backend pake **JavaScript/Express.js, Python, & C++**. Untuk database, gue udah ngoprek **MongoDB, PostgreSQL, & MySQL**. 
-
-🚀 **Sedang belajar:** `Next.js` buat naikin level ke modern React ecosystem (SSR, routing, API routes).
-💡 **Filosofi coding:** *"Belajar sambil bikin, error itu guru terbaik."*
-
-- 🌱 Fokus utama: Fullstack Web Development (MERN + Next.js)
-- 🛠️ Suka ngulik: REST API, responsive UI, database design & query optimization
-- 📫 Reach me: `[email@example.com]`
-
----
-
-## 🛠️ Tech Stack & Tools
-### 💻 Frontend
-<div align="left">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-</div>
-
-### ⚙️ Backend
-<div align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-</div>
-
-### 🗄️ Database
-<div align="left">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-</div>
-
-### 📚 Currently Learning
-<div align="left">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-</div>
-
----
-
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[USERNAME_GITHUB]&show_icons=true&theme=radical&hide_border=true" alt="Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[USERNAME_GITHUB]&theme=radical&hide_border=true" alt="Streak" width="48%"/>
-</div>
-*(⏳ Stats butuh 1-5 menit setelah push pertama buat muncul)*
-
----
-
-## 🚀 Project Belajar & Eksperimen
-| Project | Deskripsi Singkat | Tech Stack |
-|:--------|:------------------|:-----------|
-| 🔗 [MERN CRUD App](https://github.com/USERNAME/REPO) | Latihan auth, REST API, & state management | React, Express, MongoDB |
-| 🔗 [Responsive Portfolio V1](https://github.com/USERNAME/REPO) | Landing page buat latihan UI/UX & Tailwind | HTML, Tailwind, React |
-| 🔗 [Backend API Gateway](https://github.com/USERNAME/REPO) | Service routing & middleware experiment | Express.js, PostgreSQL |
-
-*(💡 Ganti link & deskripsi sesuai repo yang udah lu buat. Kalau belum ada, ganti teks tabel jadi `🔧 [Coming Soon] • [Deskripsi project yang lagi direncanakan] • [Tech Stack]`)*
-
----
-
-## 📬 Let's Connect!
+🛠️ Tech Stack
+💻 Frontend
 <p align="left">
-  <a href="https://linkedin.com/in/[USERNAME_LINKEDIN]">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:[EMAIL]">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://twitter.com/[USERNAME_TWITTER]">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
 </p>
 
----
-> 💡 *"Setiap baris kode yang lu tulis hari ini, adalah investasi buat lu di masa depan."* 
-> 🔄 *Profile ini auto-update sesuai journey belajar gue. Stay tuned!*
+⚙️ Backend
+<p align="left">
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js"/>
+</p>
+
+🗄️ Database
+<p align="left">
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+</p>
+
+🧠 Fundamentals & Tools
+<p align="left">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+</p>
+
+📚 Currently Exploring
+<p align="left">
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+</p>
+
+📊 GitHub Activity
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=HeroDev&show_icons=true&theme=radical&hide_border=true&hide_title=false" alt="GitHub Stats" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HeroDev&theme=radical&hide_border=true" alt="Streak Stats" width="48%"/>
+</p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeroDev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="60%"/>
+</p>
+> ⏳ *Stats update otomatis. Ganti `HeroDev` dengan username GitHub asli lu.*
+
+🚀 Currently Working On
+diff
+123
+📬 Let's Connect!
+<p align="center">
+<a href="https://www.instagram.com/maulana.ilham_seven/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+</p>
+
+<p align="center">
+<em>✨ "The best way to predict the future is to commit it." — HeroDev</em>
+</p>
+
+> "Code is poetry. Every function tells a story."
